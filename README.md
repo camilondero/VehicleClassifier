@@ -9,9 +9,10 @@ Artificial intelligence algorithms are applied to detect those publications or i
 https://ai.stanford.edu/~jkrause/cars/car_dataset.html
 
 ##### - Upload files to google colab
-#####  1. Run the google colab Make New Dataset.ipynb.
-#####  2. Run the google colab Clasificacion_vehiculos_modelos.ipynb
+#####  1. Run the Google Colab Make New Dataset.ipynb.
+#####  2. Run the Google Colab Clasificacion_vehiculos_modelos.ipynb
 
+<img src="/Resultados.png" alt="resultado"/>
 
 ## Authors
 ##### - Francisco Javier Luque Sugrañes
